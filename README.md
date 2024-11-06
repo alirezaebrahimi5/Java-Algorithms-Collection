@@ -4,8 +4,6 @@ A comprehensive collection of classic and advanced algorithms implemented in Jav
 
 ---
 
-You can adjust or refine the title and description based on your project’s specific focus or additional details you’d like to include.
-
 ### 1. **Binary Search**
 - **Description**: Efficient search in a sorted array, repeatedly dividing the search interval in half.
 - **Pros**:
